@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Hosted-Webapp https://imdb-tmdb-api.netlify.app/
+Hosted-Webapp https://imdb-tmdb-api.netlify.app/ Renowned Internet movie database (IMDB) inspired React app which uses The movieDB Api to fetch latest movies data in json files
 
 ## Available Scripts
 
