@@ -60,3 +60,22 @@
     font-size: .75rem;
     margin-bottom: 0.25rem;
 }
+
+@media only screen and (max-width: 600px) {
+    .cards__img {
+        height: 250px;
+    }
+    .cards {
+        display: inline-block;
+        transition: transform .2s;
+        position: relative;
+        border-radius: 10px;
+        overflow: hidden;
+        margin: 0.19rem;
+        cursor: pointer;
+        min-width: 167px;
+        height: 251px;
+        z-index: 0;
+        border: 1px solid rgb(99, 99, 99);
+    }
+}
